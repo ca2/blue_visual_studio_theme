@@ -108,27 +108,17 @@
 			</Color>
 
 
-			<!-- Map-mode scrollbar 
+			<!-- Map-mode scrollbar -->
 			<Color Name="OverviewMarginBackground">
 				<Background Type="CT_RAW" Source="FFB8CEDA" />
-			</Color>-->
+			</Color>
 
-			<!-- Currently visible range in map mode
+			<!-- Currently visible range in map mode-->
 			<Color Name="OverviewMarginVisible">
 				<Background Type="CT_RAW" Source="FF9DBDCD" />
 				<Foreground Type="CT_RAW" Source="FF9DBDCD" />
 
-			</Color> -->
-
-			<Color Name="OverviewMarginBackground">
-				<Background Type="CT_RAW" Source="FFFF00FF" />
-				<Foreground Type="CT_INVALID" Source="00000000" />
-			</Color>
-
-			<Color Name="OverviewMarginVisible">
-				<Background Type="CT_RAW" Source="FF00FFFF" />
-				<Foreground Type="CT_RAW" Source="FF00FFFF" />
-			</Color>
+			</Color> 
 			<!-- Current caret indicator -->
 			<Color Name="OverviewMarginCaret">
 				<Background Type="CT_INVALID" Source="00000000" />
@@ -150,6 +140,18 @@
 				<Foreground Type="CT_RAW" Source="FF294C62" />
 			</Color>
 
+
+
 		</Category>
+		<!-- Output pane -->
+		<Category Name="Output Window"
+				  GUID="{9973efdf-317d-431c-8bc1-5e88cbfd4f7f}">
+
+			<Color Name="Plain Text">
+				<Background Type="CT_RAW" Source="FFB8CADC" />
+				<Foreground Type="CT_RAW" Source="FF203040" />
+			</Color>
+		</Category>
+
 	</Theme>
 </Themes>
