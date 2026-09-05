@@ -13,7 +13,7 @@ or get the [CI build][vsixgallery].
 
 **Note!** This theme requires Visual Studio 2026
 
-A version of the original Blue theme shipped in Visual Studio 2022, but updated with Fluent design elements and in two versions.
+A blue light theme with blue grayed light code window.
 
 ## blue
 
