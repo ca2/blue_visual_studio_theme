@@ -9,9 +9,6 @@
     <VsixDeployOnDebug>true</VsixDeployOnDebug>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
     <UseCodebase>true</UseCodebase>
-	<StartAction>Program</StartAction>
-	<StartProgram>$(DevEnvDir)devenv.exe</StartProgram>
-	<StartArguments>/RootSuffix Exp</StartArguments>
   </PropertyGroup>
 
   <ItemGroup>
