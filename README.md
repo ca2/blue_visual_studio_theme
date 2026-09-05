@@ -1,8 +1,8 @@
-[marketplace]: <https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BlueSteel>
-[vsixgallery]: <http://vsixgallery.com/extension/BlueSteel.e1e706e2-05d3-4da9-8754-652cd8ab65f4/>
-[repo]:<https://github.com/madskristensen/BlueSteel>
+[marketplace]: <https://marketplace.visualstudio.com/items?itemName=ca2.blue>
+[vsixgallery]: <http://vsixgallery.com/extension/ca2.ca2706e2-05d3-4da9-8754-652cd8ab65f4/>
+[repo]:<https://github.com/ca2/blue_visual_studio_theme>
 
-# Blue Steel - Theme pack for Visual Studio 2026
+# blue - Theme for Visual Studio 2026
 
 [![Build](https://github.com/ca2/blue_visual_studio_theme/actions/workflows/build.yaml/badge.svg)](https://github.com/ca2/blue_visual_studio_theme/actions/workflows/build.yaml)
 
