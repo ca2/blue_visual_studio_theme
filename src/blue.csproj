@@ -9,6 +9,7 @@
     <VsixDeployOnDebug>true</VsixDeployOnDebug>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
     <UseCodebase>true</UseCodebase>
+    <BaseOutputPath>..\..\..\lemon_bin</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
