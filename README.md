@@ -4,7 +4,7 @@
 
 # Blue Steel - Theme pack for Visual Studio 2026
 
-[![Build](https://github.com/madskristensen/BlueSteel/actions/workflows/build.yaml/badge.svg)](https://github.com/madskristensen/BlueSteel/actions/workflows/build.yaml)
+[![Build](https://github.com/ca2/blue_visual_studio_theme/actions/workflows/build.yaml/badge.svg)](https://github.com/ca2/blue_visual_studio_theme/actions/workflows/build.yaml)
 
 Download this extension from the [Visual Studio Marketplace][marketplace]
 or get the [CI build][vsixgallery].
@@ -15,37 +15,9 @@ or get the [CI build][vsixgallery].
 
 A version of the original Blue theme shipped in Visual Studio 2022, but updated with Fluent design elements and in two versions.
 
-## Blue Steel (Light)
+## blue
 
-![Light](art/light.png)
-
-## Blue Steel (Dark)
-
-![Dark](art/dark.png)
-
-## Solarized Light
-
-![Solarized](art/solarized.png)
-
-## Solarized Dark
-
-![Solarized Dark](art/solarized-dark.png)
-
-## Coal
-
-![Coal](art/coal.png)
-
-## Darkhold
-
-![Darkhold](art/darkhold.png)
-
-## Redhold
-
-![Redhold](art/redhold.png)
-
-## Onyx
-
-![Onyx](art/onyx.png)
+![blue](art/blue.png)
 
 ## How can I help?
 
@@ -55,4 +27,4 @@ Should you encounter bugs or if you have feature requests, head on over to the [
 
 Pull requests are also very welcome, since I can't always get around to fixing all bugs myself. This is a personal passion project, so my time is limited.
 
-Another way to help out is to [sponsor me on GitHub](https://github.com/sponsors/madskristensen).
+Another way to help out is to [sponsor me on GitHub](https://github.com/ca2/).
