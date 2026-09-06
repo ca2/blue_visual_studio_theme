@@ -1,4 +1,4 @@
-[marketplace]: <https://marketplace.visualstudio.com/items?itemName=ca2.blue>
+[marketplace]: <https://marketplace.visualstudio.com/items?itemName=ca2.bluevisualstudiotheme001>
 [vsixgallery]: <http://vsixgallery.com/extension/ca2.ca2706e2-05d3-4da9-8754-652cd8ab65f4/>
 [repo]:<https://github.com/ca2/blue_visual_studio_theme>
 
