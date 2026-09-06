@@ -17,7 +17,7 @@ A blue light theme with blue grayed light code window.
 
 ## blue
 
-![blue](art/blue.png)
+![blue](src/Resources/blue.png)
 
 ## How can I help?
 

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="BlueSteel.ca2706e2-05d3-4da9-8754-652cd8ab65f4" Language="en-US" Publisher="Camilo Sasuke Thomas Borregaard Sørensen" Version="0.1" />
+    <Identity Id="blue_visual_studio_theme.ca2706e2-05d3-4da9-8754-652cd8ab65f4" Language="en-US" Publisher="ca2" Version="0.1.2" />
     <DisplayName>blue Theme</DisplayName>
     <Description xml:space="preserve">A theme for Visual Studio 2026 containing blue light grayed colors for blueish days.</Description>
     <MoreInfo>https://github.com/ca2/blue_visual_studio_theme</MoreInfo>
     <License>Resources\LICENSE.txt</License>
     <Icon>Resources\Icon.png</Icon>
+    <PreviewImage>Resources\blue.png</PreviewImage>
     <Tags>theme, blue, light, gray, cloudy</Tags>
   </Metadata>
   <Installation>
